@@ -1,4 +1,6 @@
 [submodule "lib/tmux-test-docker"]
 	path = lib/tmux-test-docker
 	url = https://github.com/slange-dev/tmux-test-docker.git
-  branch = master
+[submodule "lib/tmux-test"]
+	path = lib/tmux-test
+	url = https://github.com/slange-dev/tmux-test.git
